@@ -25,10 +25,10 @@ Here are some ideas to get you started:
     <img src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened">
   </a>-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=ApetroaeiClaudiu&show_icons=true&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ApetroaeiClaudiu&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApetroaeiClaudiu&hide=tcl&langs_count=6&layout=donut&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApetroaeiClaudiu&hide=tcl&langs_count=6&layout=donut&card_width=320" />
 </a>
 
 
