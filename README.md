@@ -2,13 +2,12 @@
 
 **`Software Engineer`**
 
-Hello 👋 . I am a full-stack software engineer .
+Hello 👋 I'm a PHP Software Engineer, passionate about delivering efficient and scalable software solutions. With a solid background in both back-end and front-end development, I am committed to staying current with the latest industry trends and technologies.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working with the beautiful people from Yonder Cluj-Napoca<!--- 🌱 I’m currently learning -->
-- 📫 How to reach me: DM me on LinkedIn
-- ⚡ Fun fact: I am a gerd (geek + nerd)
+Here are some things about me:
+- 🔭 I’m currently employed at Yonder Cluj-Napoca
+- 📫 You can reach me on LinkedIn
+- 🌱 I’m planning to re-visit college to get my Master's degree
 
 <p aling='left'>
   <a href="https://www.linkedin.com/in/claudiu-apetroaei-219b5a197/">
