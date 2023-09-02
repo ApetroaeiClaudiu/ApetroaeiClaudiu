@@ -1,4 +1,8 @@
-### Hi there 👋
+# Apetroaei Claudiu
+
+**`Software Engineer`**
+
+Hello 👋 . I am a full-stack software engineer .
 
 <!--
 **ApetroaeiClaudiu/ApetroaeiClaudiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
