@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 
 <p aling='left'>
   <a href="https://www.linkedin.com/in/claudiu-apetroaei-219b5a197/">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-218AAB?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-218AAB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a>
-    <img src="https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white)"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
   <div>
   </div>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ApetroaeiClaudiu&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApetroaeiClaudiu&layout=donut&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApetroaeiClaudiu&hide=tcl&layout=donut&card_width=320" />
 </a>
 
 
