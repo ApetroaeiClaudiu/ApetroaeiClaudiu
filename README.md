@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 [![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 
-[![Spotify](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Spotify](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=spotify&logoColor=white)](https://nodejs.org/)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
