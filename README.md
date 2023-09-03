@@ -18,7 +18,7 @@ Here are some things about me:
     <a href="https://open.spotify.com/user/8ny8bs27du5xbyoaa434trq7e">
       <img src="https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart"/>
     </a>
-    <a>
+    <a href="mailto:apetroaei.claudiu99@gmail.com">
       <img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/>
     </a>
 </p>
