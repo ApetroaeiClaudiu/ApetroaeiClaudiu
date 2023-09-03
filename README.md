@@ -13,15 +13,16 @@ Here are some things about me:
   <a href="https://www.linkedin.com/in/claudiu-apetroaei-219b5a197/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-218AAB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a>
-    <img src="https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white"/>
-  </a>
-  <a href="https://open.spotify.com/user/8ny8bs27du5xbyoaa434trq7e">
-    <img src="https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart"/>
-  </a>
-  <div>
-  </div>
 </p>
+<p aling='left'>
+    <a href="https://open.spotify.com/user/8ny8bs27du5xbyoaa434trq7e">
+      <img src="https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart"/>
+    </a>
+    <a>
+      <img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/>
+    </a>
+</p>
+  
 <!--
   <a>
     <img src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened">
