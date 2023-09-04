@@ -4,11 +4,12 @@
 
 Hello 👋 I'm a PHP Software Engineer, passionate about delivering efficient and scalable software solutions. With a solid background in both back-end and front-end development, I am committed to staying current with the latest industry trends and technologies.
 
-Here are some things about me:
-- 🔭 I’m currently employed at Yonder Cluj-Napoca
-- 📫 You can reach me on LinkedIn
-- 🌱 I’m planning to re-visit college to get my Master's degree
+### About me:
+- I am a huge cinephile & a nerd
+- I’m planning to re-visit college to get my Master's degree
+- I started studying programming due to my passion for video games but I ended up loving every aspect of it and I never shy away from learning something new 
 
+### Contact me
 <p aling='left'>
   <a href="https://www.linkedin.com/in/claudiu-apetroaei-219b5a197/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-218AAB?style=for-the-badge&logo=linkedin&logoColor=white"/>
