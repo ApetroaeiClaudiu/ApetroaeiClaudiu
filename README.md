@@ -27,13 +27,11 @@ Here are some things about me:
   <a>
     <img src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened">
   </a>-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ApetroaeiClaudiu&show_icons=true&rank_icon=github&theme=synthwave" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+### Stats
+<p aling="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ApetroaeiClaudiu&show_icons=true&rank_icon=github&theme=synthwave" alt="Claudiu Apetroeei"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApetroaeiClaudiu&hide=tcl&langs_count=6&layout=donut&theme=synthwave&card_width=320" alt="Claudiu Apetroeei"/>
-</a>
-
+</p>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/)
