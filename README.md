@@ -31,7 +31,7 @@ Here are some things about me:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ApetroaeiClaudiu&show_icons=true&rank_icon=github&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApetroaeiClaudiu&hide=tcl&langs_count=6&layout=donut&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApetroaeiClaudiu&hide=tcl&langs_count=6&layout=donut&theme=synthwave&card_width=320" />
 </a>
 
 
