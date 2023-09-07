@@ -1,24 +1,32 @@
 ### 🎦 Apetroaei Claudiu
 
-**`Software Engineer`**
+##`Software Engineer` 💼##
 
-Hello 👋 I'm a PHP Software Engineer, passionate about delivering efficient and scalable software solutions. With a solid background in both back-end and front-end development, I am committed to staying current with the latest industry trends and technologies.
+Greetings! I'm a seasoned PHP Software Engineer dedicated to crafting robust, scalable software solutions. Leveraging extensive expertise in both back-end and front-end development, I continually align my skills with the latest industry standards and technological advancements.
 
-### About me:
-- I’m planning to re-visit college to get my Master's degree
-- I started studying programming due to my passion for video games but I ended up loving every aspect of it and I never shy away from learning something new 
+## About Me: ##
+
+- 🎬 Avid cinephile with an enthusiasm for diverse cultural narratives.
+- 📚 Actively considering advanced education through a Master's program.
+- 🎮 Initially drawn to programming by a fascination for video games, I've since cultivated a holistic appreciation for the realm of software development and remain perpetually open to mastering novel concepts and technologies.
+
+## Additional Information: ##
+
+- Engaged in ongoing professional development through online courses and workshops.
+- Collaborative team player who thrives in diverse teams.
+- Committed to continuous personal and professional growth.
 
 ### Contact me
 
-<p aling='left'>
+<p align='left'>
   <a href="https://www.linkedin.com/in/claudiu-apetroaei-219b5a197/">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-218AAB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin%20-%230072B1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
     <a href="https://open.spotify.com/user/8ny8bs27du5xbyoaa434trq7e">
       <img src="https://img.shields.io/badge/spotify%20-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
     </a>
     <a href="mailto:apetroaei.claudiu99@gmail.com">
-      <img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/>
+      <img src="https://img.shields.io/badge/mail%20-%23991D0A.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
   
