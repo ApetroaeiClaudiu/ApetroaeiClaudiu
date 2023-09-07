@@ -1,4 +1,4 @@
-### 🎦 Apetroaei Claudiu
+### Apetroaei Claudiu
 
 `Software Engineer` 💼
 
@@ -16,7 +16,7 @@ Greetings! I'm a seasoned PHP Software Engineer dedicated to crafting robust, sc
 - Collaborative team player who thrives in diverse teams.
 - Committed to continuous personal and professional growth.
 
-### Contact me
+### Contact me:
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/claudiu-apetroaei-219b5a197/">
@@ -34,7 +34,7 @@ Greetings! I'm a seasoned PHP Software Engineer dedicated to crafting robust, sc
   <a>
     <img src="https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened">
   </a>-->
-### Stats
+### Stats:
 <p aling="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ApetroaeiClaudiu&show_icons=true&rank_icon=github&theme=synthwave" alt="Claudiu Apetroeei"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApetroaeiClaudiu&hide=tcl&langs_count=6&layout=donut&theme=synthwave&card_width=320" alt="Claudiu Apetroeei"/>
