@@ -10,14 +10,13 @@ Hello 👋 I'm a PHP Software Engineer, passionate about delivering efficient an
 - I started studying programming due to my passion for video games but I ended up loving every aspect of it and I never shy away from learning something new 
 
 ### Contact me
+
 <p aling='left'>
   <a href="https://www.linkedin.com/in/claudiu-apetroaei-219b5a197/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Linkedin-218AAB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-<p aling='left'>
     <a href="https://open.spotify.com/user/8ny8bs27du5xbyoaa434trq7e">
-      <img src="https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart"/>
+      <img src="https://img.shields.io/badge/spotify%20-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
     </a>
     <a href="mailto:apetroaei.claudiu99@gmail.com">
       <img src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"/>
