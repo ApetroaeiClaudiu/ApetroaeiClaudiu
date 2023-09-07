@@ -1,6 +1,6 @@
 ### 🎦 Apetroaei Claudiu
 
-##`Software Engineer` 💼##
+`Software Engineer` 💼
 
 Greetings! I'm a seasoned PHP Software Engineer dedicated to crafting robust, scalable software solutions. Leveraging extensive expertise in both back-end and front-end development, I continually align my skills with the latest industry standards and technological advancements.
 
