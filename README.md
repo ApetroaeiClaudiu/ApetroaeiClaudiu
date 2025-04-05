@@ -19,7 +19,7 @@ Greetings! I'm a seasoned PHP Software Engineer dedicated to crafting robust, sc
 ### Contact me:
 
 <p align='left'>
-  <a href="https://www.linkedin.com/in/claudiu-apetroaei-219b5a197/" target="_blank">
+  <a href="[https://www.linkedin.com/in/claudiu-apetroaei-219b5a197/](https://www.linkedin.com/in/claudiu-a-219b5a197/)" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20-%230072B1.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
     <a href="https://open.spotify.com/user/8ny8bs27du5xbyoaa434trq7e" target="_blank">
