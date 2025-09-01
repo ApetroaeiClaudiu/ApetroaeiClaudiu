@@ -2,18 +2,18 @@
 
 `PHP Software Engineer` 💼
 
-Greetings! I'm a seasoned PHP Software Engineer dedicated to crafting robust, scalable software solutions. Leveraging extensive expertise in both back-end and front-end development, I continually align my skills with the latest industry standards and technological advancements.
+Greetings! I'm a PHP Software Engineer dedicated to crafting robust, scalable software solutions. Leveraging extensive expertise in both back-end and front-end development, as well as possessing cloud knowledge. I continually align my skills with the latest industry standards and technological advancements.
 
 ## About Me: ##
 
-- 🎬 Avid cinephile with an enthusiasm for diverse cultural narratives.
-- 📚 Actively considering advanced education through a Master's program.
+- 🎬 Avid cinephile with an enthusiasm for diverse cultural narratives;
+- 📚 Actively considering advanced education through a Master's program;
 - 🎮 Initially drawn to programming by a fascination for video games, I've since cultivated a holistic appreciation for the realm of software development and remain perpetually open to mastering novel concepts and technologies.
 
 ## Additional Information: ##
 
-- Engaged in ongoing professional development through online courses and workshops.
-- Collaborative team player who thrives in diverse teams.
+- Engaged in ongoing professional development through online courses and workshops;
+- Collaborative team player who thrives in diverse teams;
 - Committed to continuous personal and professional growth.
 
 ### Contact me:
